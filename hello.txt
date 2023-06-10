@@ -9,4 +9,4 @@ hello,nihao!
 hello,nihao!
 hello,nihao!
 hello,nihao!
-hello,second!
+hello,second! hot-fix test
