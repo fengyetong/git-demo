@@ -10,3 +10,4 @@ hello,nihao!
 hello,nihao!
 hello,nihao! master test
 hello,second!
+hello,second! hot-fix test
