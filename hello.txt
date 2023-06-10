@@ -8,6 +8,6 @@ hello,nihao!
 hello,nihao!
 hello,nihao!
 hello,nihao!
-hello,nihao! master test1
+hello,nihao! master test2
 hello,second!
 hello,second! hot-fix test
